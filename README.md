@@ -1,1 +1,1 @@
-# picasso-painting
+# Picasso Painting
